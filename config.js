@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285770190255'] 
+global.owner = ['6282230397507'] 
 global.mods = [] 
-global.prems = [] 
-global.kontak = ['6285770190255']
+global.prems = ['6282230397507'] 
+global.kontak = ['6282230397507']
 
 //  INFO BOT 
-global.naown = 'HanzOfc'
-global.noown = '6285770190255'
-global.namebot = 'XiaomiBOT'
-global.nobot = '62857791505013'
+global.naown = 'BARON'
+global.noown = '6282230397507'
+global.namebot = '𝑍𝑒𝑟𝑜𝐵𝑂𝑇'
+global.nobot = '1(319)2502033'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/rangga_botz'
-global.github = 'https://github.com/XiaomiBOT'
-global.gc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
-global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/XiaomiBOT'
+global.instagram = 'https://instagram.com/dhen.bagus'
+global.github = 'https://github.com/cracker'
+global.gc = 'https://chat.whatsapp.com/LtrpRzOr7FW5AUlNpf1Sfd'
+global.web = 'https://instagram.com/dhen.bagus' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://instagram.com/dhen.bagus'
 
 // PAYMANT 
-global.dana = '085779150501'
-global.pulsa = '085770190255'
-global.gopay = '085779150501'
+global.dana = '6282230397507'
+global.pulsa = '6282230397507'
+global.gopay = '6282230397507'
 global.shopay = '-'
-global.ovo = '085779150501'
+global.ovo = '6282230397507'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,11 +54,11 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐗𝐢𝐚𝐨𝐦𝐢𝐁𝐎𝐓'
+global.wm = 'ᬊᬁ 𝑍𝑒𝑟𝑜𝐵𝑂𝑇'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙃𝙖𝙣𝙯𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝙓𝙞𝙖𝙤𝙢𝙞 | BOT WHATSAPP MD'
-global.tb = 'WHATSAPP BOT MULTI DEVICE'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝘽𝙖𝙧𝙤𝙣𝙊𝙛𝙘'
+global.wm3 = '⫹⫺ 𝑍𝑒𝑟𝑜 | BOT WHATSAPP MD'
+global.tb = '𝖹𝖾𝗋𝗈 BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
 global.dbki = '╭──〔'
@@ -77,7 +77,7 @@ global.ftb = '┃\n┗━━══┅┅══━━━✦\n'
 
 global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃
-┃⫹⫺ Nurutomo
+┃⫹⫺ 𝖡𝖺𝗋𝗈𝗇𝖮𝖿𝖼
 ┃⫹⫺ Ilmanhdyt
 ┃⫹⫺ Elyas
 ┃⫹⫺ Hyzer
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Di buat Tod🗿'
-global.packname = 'XiaomiBOT'
-global.author = 'By HanzOfc'
+global.packname = '𝑍𝑒𝑟𝑜𝐵𝑂𝑇'
+global.author = '𝖡𝗒 𝖹𝖾𝗋𝗈𝖡𝗈𝗍'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
